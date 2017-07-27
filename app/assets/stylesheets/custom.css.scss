@@ -17,8 +17,8 @@ $navbar-default-bg: black ;
 #logo:hover{
   color: #fff;
   text-decoration: none;
+}
 
-      }
 .center{
   text-align: center;
 }
@@ -40,6 +40,15 @@ $navbar-default-bg: black ;
 .btn-xlarge{
   font-size: 1.7em;
   background-color:black  ;
+}
+
+.article-actions{
+  border-top: 1px solid #222222;
+  padding-top: 5px;
+}
+
+.description{
+  margin-top: 0;
 }
 
 footer{
